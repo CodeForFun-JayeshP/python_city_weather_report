@@ -22,4 +22,3 @@ print("----------------------------------------------------------------")
 print(f"Current temperature is : {round(temperature)}\N{DEGREE SIGN}C \nCurrent weather descr  : {weather_cond} "
       f"\nCurrent Humidity       : {Humidity}% \nCurrent wind speed     : {Wind_speed} kmph ")
 print("================================================================")
-
